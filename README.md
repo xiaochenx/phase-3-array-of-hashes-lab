@@ -1,4 +1,4 @@
-# Nested Hashes Lab
+# Working with an Array of Hashes Lab
 
 ## Learning Goals
 
