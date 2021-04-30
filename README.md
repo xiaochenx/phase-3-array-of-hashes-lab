@@ -1,12 +1,12 @@
-# Working with an Array of Hashes Lab
+# Lab: Working with an Array of Hashes
 
 ## Learning Goals
 
-1. Recognize vocabulary term: "array of hashes" ("AoH")
-2. Recognize that "arrays of hashes" are contact lists or spreadsheets
-3. Create an `Array` of `Hash`es
-4. Read scalar data from an `Array` of `Hash`es
-5. Modify scalar data in an `Array` of `Hash`es
+- Recognize vocabulary term: "array of hashes" ("AoH")
+- Recognize that "arrays of hashes" are contact lists or spreadsheets
+- Create an `Array` of `Hash`es
+- Read scalar data from an `Array` of `Hash`es
+- Modify scalar data in an `Array` of `Hash`es
 
 ## Introduction
 
